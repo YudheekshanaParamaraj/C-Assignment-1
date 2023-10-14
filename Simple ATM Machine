@@ -48,6 +48,7 @@ void DisplayInfo(){
     }
 };
 int main(){
+    cout<<"YUDHEEKSHANA - SIMPLE ATM MACHINE\n";
 
     BankDetails Customer1;
 
