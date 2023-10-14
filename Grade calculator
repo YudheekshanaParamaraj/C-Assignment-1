@@ -6,7 +6,7 @@ int main() {
     float quiz;
     float exam;
     int avg_assign,avg_quiz,avg_exam,avg;
-    
+    cout<<"YUDHEEKSHANA - GRADE CALCULATOR\n";
     cout<<"Enter assignment grade:";
     cin>>assign;
     if(assign<0 || assign>100){
